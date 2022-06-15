@@ -1,6 +1,6 @@
 # aibois
 
-AI Tools Project
+AI Tools Project with the bois.
 
 # Pre Processing
 
